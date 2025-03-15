@@ -1,5 +1,6 @@
 # Library Inventory Management Project 
-## Create a Python script that manages a library's inventory of books using lambdas, arrays, and simple OOP concepts.
+## Create a Python script that manages a library's inventory of 
+## books using lambdas, arrays, and simple OOP concepts.
 
 ### This project demonstrates the following concepts:
 
